@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:eeb8c2,100:EF6B98&height=280&section=header&text=Yujin's%20Github&fontSize=60&fontColor=f8689d&fontAlignY=45&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:eeb8c2,100:EF6B98&height=190&section=header&text=Yujin's%20Github&fontSize=48&fontColor=f8689d&fontAlignY=40&animation=twinkling)
 
 <h3>📝 Blog</h3>
 <a href="https://sweetraincodingnote.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-ff5a4a?style=for-the-badge&logo=Tistory&logoColor=white"></a> <a href="https://medium.com/@yujin.px" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"></a>
@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 ![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yujin-Baek&show_icons=true&theme=dracula) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=pengpeng_02)](https://solved.ac/pengpeng_02)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:eeb8c2,100:EF6B98&height=170&section=footer&fontSize=60&fontColor=f8689d&fontAlignY=45&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:eeb8c2,100:EF6B98&height=130&section=footer&fontSize=60&fontColor=f8689d&fontAlignY=45&animation=twinkling)
 
